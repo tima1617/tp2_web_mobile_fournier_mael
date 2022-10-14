@@ -22,19 +22,15 @@ function MapPage() {
         </ul>
         <div className="footerIcon-Container">
           <div className="Icon">
-            {" "}
             <img className="Icon-img" src={Adjust} alt="Adjust" />
           </div>
           <div className="Icon">
-            {" "}
             <img className="Icon-img" src={Expand} alt="Adjust" />
           </div>
           <div className="Icon">
-            {" "}
             <img className="Icon-img" src={Eye} alt="Adjust" />
           </div>
           <div className="Icon">
-            {" "}
             <img className="Icon-img" src={Off} alt="Adjust" />
           </div>
         </div>
